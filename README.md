@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello 👋
+
+Welcome to my GitHub profile. I'm a full-stack developer by day, and love exploring things Linux and retro computing/gaming in my free time. 
+
+Some of interests result in code and/or repositories that might have led you to this very profile. I no longer host these kinds of projects on GitHub for numerous reasons, so if you're looking for something that isn't daytime-work related and isn't preserved here on my account, you'll probably be able to find it on [my self-hosted Gitea instance](https://git.davejansen.com/). 
+
+If not, please do reach out to me. You can find my contact information in the sidebar on the left here, or [on my blog](https://davejansen.com/about/).
+
+Thank you for visiting!
 
 <!--
 **jibsaramnim/jibsaramnim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
